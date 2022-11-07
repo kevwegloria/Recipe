@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header h1 {
+font-size: 50px;
+text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+background-color: #7B3F00;
+color: white;
+}
+
+.origin {
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+    margin-bottom: 30px;
+    margin-top: 60px;
+}
+.origin h3 {
+    color: burlywood;
+    font-size: 30px;
+    
+}
+.origin p {
+    padding-top: 15px;
+    font-size: 17px;
+    width: 500px;
+}
+
+.origin img {
+    height: 450px;
+}
+.card {
+ margin-bottom: 100px;
+    
+    
+    text-align: center;
+    width: 20%;
+  }
+  
+.food {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.ingredients {
+    text-align: center;
+    
+}
+.ingredients h3 {
+    color: burlywood;
+    font-size: 30px;
+    margin-top: 60px;
+   
+    
+}
+table, td {
+    margin-top: 30px;
+    border:2px solid #7B3F00;
+    font-size: 17px;
+  }  
+
+  .mytable {
+    margin-top: 50px;
+  }
+table {
+    margin: auto;
+}
+td {
+    width: 300px;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.instructions h3 {
+    color: burlywood;
+    font-size: 30px;
+    margin-top: 60px;
+}
+
+.instructions {
+    margin-left: 69px;
+}
+
+.instruct {
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.instruct p {
+    line-height: 30px;
+    width: 700px;
+}
+    
